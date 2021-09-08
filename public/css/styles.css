@@ -4,6 +4,11 @@ html {
   font-family: 'Architects Daughter', cursive;
 }
 
+@-ms-viewport{
+    width: extend-to-zoom;
+    zoom: 1.0;
+}
+
 h1 {
   color: #fff;
   padding: 10px;
